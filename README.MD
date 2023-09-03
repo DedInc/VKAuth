@@ -10,7 +10,7 @@ VKAuth is a Python library that helps you to authenticate with VK.com using cook
 
 ## Installation
 
-Use the package manager [pip ↗](https://pip.pypa.io/en/stable/) to install VKAuth.
+Use the package manager [pip ↗](https://pypi.org/project/vkauth/) to install VKAuth.
 
 ```bash
 pip install vkauth
@@ -45,7 +45,7 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 Please make sure to update tests as appropriate.
 
 ## License
-[MIT ↗](https://choosealicense.com/licenses/mit/)
+[LICENSE](MIT)
 
 ## Disclaimer
 This library is intended to be used for educational purposes only. Never use it to exploit or harm someone's privacy without their consent. The maintainers of this library are not responsible for any misuse by the users.
