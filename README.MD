@@ -28,6 +28,12 @@ user_token = auth.get_token()
 
 # to get a group token
 group_token = auth.get_token(group_id='your_group_id')
+
+#to get cookies
+cookies = auth.session.cookies
+remixsid = cookies['remixsid']
+remixnsid = cookies['remixnsid']
+p = cookies['p']
 ```
 
 ## Supported Browsers
