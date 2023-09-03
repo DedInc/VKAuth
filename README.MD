@@ -45,7 +45,7 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 Please make sure to update tests as appropriate.
 
 ## License
-[LICENSE](MIT)
+[MIT ↗](LICENSE)
 
 ## Disclaimer
 This library is intended to be used for educational purposes only. Never use it to exploit or harm someone's privacy without their consent. The maintainers of this library are not responsible for any misuse by the users.
